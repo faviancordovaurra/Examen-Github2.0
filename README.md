@@ -1,35 +1,38 @@
 # Examen-Github2.0
 
-Este repositorio fue creado como parte del examen de la asignatura **GHY0101 - GitHub (Microsoft Learn)**, correspondiente a la situación evaluativa del módulo.
+Este repositorio fue creado como parte del examen de la asignatura GHY0101 - GitHub (Microsoft Learn), correspondiente a la situación evaluativa del módulo.
 
-## 🔧 Objetivo
+ Objetivo
 
-Demostrar la integración de **Visual Studio Code con GitHub** para la codificación de software, incluyendo:
+Demostrar la integración de Visual Studio Code con GitHub para la codificación de software, incluyendo:
 
 - Uso del control de versiones.
 - Gestión de ramas y commits.
 - Sincronización con GitHub desde VSCode.
 - Creación y modificación de archivos.
 
-## 📌 Tecnologías utilizadas
+ Tecnologías utilizadas
 
-- **Visual Studio Code**
-- **Git**
-- **GitHub**
-- Extensión: `GitHub Pull Requests and Issues`
+- Visual Studio Code
+- Git
+- GitHub
+- Extensión: 
 
-## 🧪 Actividades realizadas
+Actividades realizadas
 
 - Conexión de Visual Studio Code con GitHub.
 - Autenticación vía navegador.
 - Edición del archivo `README.md`.
 - Confirmación de cambios y sincronización con repositorio remoto.
 
-## 👨‍💻 Autor
+ Autor;
+fabian
+vicente
+braulio
 
-**Sergio Urra**
-
-GitHub: [@faviancordovaurra](https://github.com/faviancordovaurra)
+GitHub: FA.cordova@duocuc.cl
+        br.sanchezb@duocuc.cl
+        vi.sanchezm@duocuc.cl
 
 ---
 
